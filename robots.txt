@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cbb607.github.io/blog//sitemap.xml
+Sitemap: https://cbb607.github.io//sitemap.xml
