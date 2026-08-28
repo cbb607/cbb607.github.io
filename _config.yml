@@ -252,12 +252,14 @@ exclude:
   - migrations/
   - vendor
   - _pages/blog.md
+  - /blog.md
   - _pages/repositories.md
   - _pages/publications.md
   - _pages/books.md
+  - /bookshelf.md
   - _pages/cv.md
   - _pages/teaching.md
-  - _pages/people.md
+  - _people.md
   - _pages/_projects/2_project.md
   - _pages/_projects/3_project.md
   - _pages/_projects/4_project.md
