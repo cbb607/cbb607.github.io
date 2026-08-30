@@ -4,7 +4,7 @@ title: paintings
 description: 
 img: assets/img/booty.jpg
 importance: 1
-category: work
+category: 
 related_publications: true
 ---
 coming soon
