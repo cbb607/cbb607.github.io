@@ -272,6 +272,7 @@ exclude:
   - _pages/_projects/7_project.md
   - _pages/_projects/8_project.md
   - _pages/_projects/9_project.md
+  - _pages/dropdown.md
 
 
 
