@@ -4,7 +4,7 @@ title: ceramics
 description: 
 img: assets/img/cerm.jpg
 importance: 2
-category: 
+category: work
 related_publications: true
 ---
 coming soon
