@@ -6,6 +6,7 @@
 
 layout: page
 title: about
+permalink: /
 subtitle: camillebouvetboisclair@gmail.com #<a href='#'>Affiliations</a>. 
 #description: 
 #img: assets/img/12.jpg
