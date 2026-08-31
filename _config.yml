@@ -261,11 +261,11 @@ exclude:
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/people.md
-  - _pages/people.md
   - people.md
   - /people/
   - _pages/dropdown.md
   - _pages/_projects/2_project.md
+
 
 
 
