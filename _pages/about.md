@@ -14,7 +14,6 @@ subtitle: #<a href='#'>Affiliations</a>.
 #category: work
 #related_publications: true
 ---
-# Camille Bouvet-Boisclair
 camillebouvetboisclair@gmail.com
     
 
