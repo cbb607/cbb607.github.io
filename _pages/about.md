@@ -4,7 +4,7 @@
 #permalink: /
 #subtitle: camillebouvetboisclair@gmail.com #<a href='#'>Affiliations</a>. 
 
-layout: page
+layout: about
 title: about
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. 
