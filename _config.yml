@@ -205,7 +205,7 @@ ccollections:
     output: true
   projects:
     output: true
-  courses:
+  paintings:
     output: true
     permalink: /paintings/:path/
 
