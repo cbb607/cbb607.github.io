@@ -251,9 +251,9 @@ exclude:
   - migrations/
   - vendor
   - _pages/blog.md
-  - _pages/projects.md
+  - #_pages/projects.md
   - _pages/blog.md
-  - /_projects.md
+  - #/_projects.md
   - /blog.md
   - _pages/repositories.md
   - _pages/publications.md
@@ -267,10 +267,6 @@ exclude:
   - /people/
   - _pages/dropdown.md
   - _pages/_projects/2_project.md
-
-
-
-
 
 
 keep_files:
