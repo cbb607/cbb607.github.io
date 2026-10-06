@@ -198,7 +198,7 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-ccollections:
+collections:
   news:
     defaults:
       layout: post
