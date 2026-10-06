@@ -23,5 +23,5 @@ camillebouvetboisclair@gmail.com
     </div>
 </div>
 <div class="caption">
-   This site is under construction! Projects coming soon!
+   This site is under construction! Projects coming soon! test test
 </div>

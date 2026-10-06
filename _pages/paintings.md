@@ -8,6 +8,12 @@ nav_order: 3
 display_categories: #[work, fun]
 horizontal: false
 ---
+{% assign course_items = site.courses | sort: 'date' | reverse %}
+
+{% for item in course_items %}
+  <h3>{{ item.title }}</h3>
+  <p>{{ item.content }}</p>
+{% endfor %}
 
 <!-- pages/paintings.md -->
 <div class="projects">
