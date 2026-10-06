@@ -1,12 +1,12 @@
 ---
 layout: page
-title: paintings
-permalink: /paintings/
-description: Paintings
+title: ceramics
+permalink: /ceramics/
+description: Ceramics
 ---
 
-<!-- pages/paintings.md -->
-<div class="paintings">
+<!-- pages/ceramics.md -->
+<div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
