@@ -252,6 +252,8 @@ exclude:
   - migrations/
   - vendor
   - _pages/blog.md
+  - _pages/projects.md
+  - _pages/blog.md
   - /_projects.md
   - /blog.md
   - _pages/repositories.md
