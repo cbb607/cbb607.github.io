@@ -198,17 +198,16 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  books:
-    output: true
+ccollections:
   news:
     defaults:
       layout: post
     output: true
   projects:
     output: true
-  teachings:
+  courses:
     output: true
+    permalink: /paintings/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
