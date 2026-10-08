@@ -4,7 +4,7 @@ permalink: /paintings/
 title: paintings
 description: #Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
+nav_order: 1
 #calendar: true
 horizontal: false
 ---

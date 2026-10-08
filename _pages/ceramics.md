@@ -4,7 +4,7 @@ permalink: /ceramics/
 title: ceramics
 description: #Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
+nav_order: 2
 #calendar: true
 horizontal: false
 ---
