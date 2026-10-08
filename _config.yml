@@ -210,6 +210,9 @@ collections:
   paintings:
     output: true
     permalink: /paintings/:name/
+  ceramics:
+    output: true
+    permalink: /ceramics/:name/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
