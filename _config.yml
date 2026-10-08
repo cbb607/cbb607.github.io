@@ -264,6 +264,7 @@ exclude:
   - _pages/people.md
   - people.md
   - /people/
+  - _pages/projects.md
   - _pages/dropdown.md
   - _pages/_projects/2_project.md
 
